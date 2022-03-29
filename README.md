@@ -1,5 +1,7 @@
 # RajParekhLab-Spring-AssignmentSolution
 
+The code in the repository has been correctly formatted and indentated  using Eclipse IDE Format Code Function.
+
 This Repo Contains Solution to Lab Assignment 6 Spring Boot and Security
 
 The Solution Project Folder has been Named as StudentsManagement
