@@ -25,8 +25,6 @@
 		<h3>Student Details Directory</h3>
 		<hr>
 
-		<!-- Add a search form -->
-
 		<!-- Add a button -->
 		<div
 			class="d-flex">
